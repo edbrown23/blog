@@ -2,4 +2,4 @@
 
 ## Table of Contents
 
-- [Welcome to the blog!]('Welcome to the blog!.md') (1/15)
+- [Welcome to the blog!](2023/01/15/welcome-to-the-blog) (1/15)
