@@ -8,7 +8,7 @@ It's 2023, and that means it's the year of the blog! Or at least, that's what I'
 - I commit to publishing a blog post, usually of a technical nature, every two weeks on Sunday, starting January 15th, 2023
 - Blogs can come early, purely for scheduling flexibility
 - There's no minimum word count for a post, but the honor system I'm maintaing for myself is that I won't post something inherently wasteful
-- I'm sharing this commitment with [Quinten Palmer](https://github.com/quintenpalmer), who will also be posting biweekly! Expect a link to his posts soon!
+- I'm sharing this commitment with [Quinten Palmer](https://github.com/quintenpalmer), who will also be posting biweekly! You can find his posts [here](https://quintenpalmer.github.io/), go check them out!
 
 Why do this? A few reasons:
 
