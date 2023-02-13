@@ -1,6 +1,6 @@
 ---
 title: "Deploying Barkeep"
-date: YYYY-MM-DD
+date: 2023-03-12
 ---
 
 When I started `barkeep`, my intention was to host the entire application locally on a NUC that I've had since 2017, and used for essentially nothing. It was going to be a very personal side project, so why bother with hosting? However, I soon realized I wanted to take `barkeep` on the go, letting it keep track of shopping lists on my phone and a future "remote bartender" mode when I'm at other people's houses. Remote access, at the time, meant deploying it on the internet, and that meant I needed hosting.
