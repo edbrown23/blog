@@ -4,6 +4,7 @@
 
 - [Welcome to the blog!](2023/01/15/welcome-to-the-blog) (1/15)
 - [Introducing Barkeep!](2023/01/29/introducing-barkeep) (1/29)
+- [Forever 1% Better](2023/02/12/forever-better) (2/12)
 
 
 ## barkeep
