@@ -1,5 +1,7 @@
 # Eric's Blog!
 
+Find me, the blog, in live form here: [https://edbrown23.github.io/blog/](https://edbrown23.github.io/blog/)
+
 ## Table of Contents
 
 - [Welcome to the blog!](2023/01/15/welcome-to-the-blog) (1/15)
