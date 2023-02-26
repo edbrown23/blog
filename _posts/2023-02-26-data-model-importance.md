@@ -24,7 +24,7 @@ Required Amounts:
 
 Immediately one can see challenges with modeling this recipe, but in the interest of establishing an "MVP" as soon as possible, I charged ahead to create a simple database schema that could represent it. We can visualize the schema I came up with below:
 
-![first_data_model](/docs/assets/first_data_model.png)
+![first_data_model](/blog/docs/assets/first_data_model.png)
 
 This is the absolute simplest thing I could have made, but it got the job done assuming I could get data into it. Rails would allow me to search through the `reagent_amounts` for `reagents` which matched, and which had enough available volume, and I'd be off to the races.
 
@@ -42,7 +42,7 @@ My data model needed to evolve to handle this complexity if it was ever going to
 
 With these new complexities in mind, I opted to deepen the data model with an intermediary layer: categories. 
 
-![[assets/second_data_model.png]]
+![second_data_model](/blog/docs/assets/second_data_model.png)
 
 Categories sat in between the cocktail's required `reagent_amounts` and the bottles in my collection by serving as a join table of sorts. I attempted to model the complexity of each cocktail recipe by allowing a required "amount" to reference either a particular bottle or a category, which I hoped could handle the Green Chartreuse vs Gin conundrum. 
 
@@ -60,7 +60,7 @@ At this point, I realized I should just lean in fully on categories, giving each
 
 For now, however, we just had the following:
 
-![[third_data_model.png]]
+![third_data_model.png](/blog/docs/assets/third_data_model.png)
 
 Users existed at this point, which created the additional wrinkle that I had decided categories should be globally unique across users, while every other model had `user_id`s associated with them. I had started to have ambitions around sharing a list of recipes between all users, as well as allowing users to create their own private cocktails, and being able to link recipes to a global list made that sharing easier to conceptualize.
 
@@ -79,7 +79,7 @@ Then, while in conversation with a coworker about this data model, he struck on 
 
 The essential element of this latest data model is the softening of the linkage between the recipes and amounts side of the house, and the categories and bottles that user's possess. This "softening" was done by converting the linkage between the models from direct foreign key ids to lists of "external ids", or tags. This is harder to model visually, but a rough diagram of the current model is below:
 
-![[fourth_data_model.png]]
+![fourth_data_model.png](/blog/docs/assets/fourth_data_model.png)
 
 The diagram does a poor job of describing how this works, but in brief:
 - `ReagentAmounts` have `tags`, which are a set of snake case "external ids", really just strings that we make sure conform to some simple rules.
