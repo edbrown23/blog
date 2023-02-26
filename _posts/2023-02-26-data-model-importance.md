@@ -24,7 +24,7 @@ Required Amounts:
 
 Immediately one can see challenges with modeling this recipe, but in the interest of establishing an "MVP" as soon as possible, I charged ahead to create a simple database schema that could represent it. We can visualize the schema I came up with below:
 
-![first_data_model](docs/assets/first_data_model.png)
+![first_data_model](/docs/assets/first_data_model.png)
 
 This is the absolute simplest thing I could have made, but it got the job done assuming I could get data into it. Rails would allow me to search through the `reagent_amounts` for `reagents` which matched, and which had enough available volume, and I'd be off to the races.
 
