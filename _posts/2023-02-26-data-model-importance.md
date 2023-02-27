@@ -85,7 +85,7 @@ The diagram does a poor job of describing how this works, but in brief:
 - `ReagentAmounts` have `tags`, which are a set of snake case "external ids", really just strings that we make sure conform to some simple rules.
 - User `Reagents` also have a list of `tags`
 - All `tags` are sourced from `ReagentCategories`, which is a globally unique list of the different possible tags. 
-- When searching for recipes that can be made, we just do set intersections between the set of `tags` a user has (all the tags across all their reagents), and the sets of tags belonging to each `recipe`. If an intersection is empty, that means the user can probably make the drink.
+- When searching for recipes that can be made, we just do set intersections between the set of `tags` a user has (all the tags across all their reagents), and the sets of tags belonging to each `recipe`. If an intersection isn't empty, that means the user can probably make the drink.
 
 This model makes it trivial to "link" new recipes together with the bottles in a user's collection, because as long as they use the same `tag`, they have a relationship. I don't need to actually setup direct linkages between rows in the database, but can instead rely on the query patterns to ensure things are found. Copying cocktails between users is easy now, as is providing a better experience for creating new recipes. Correcting incorrect recipes just requires changing the spelling of specific tags, and the links appear automatically.
 
