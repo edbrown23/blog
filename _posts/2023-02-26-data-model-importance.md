@@ -107,3 +107,9 @@ This post is already long, so I'll save a deep dive into future data models for 
 - Doing the above would unlock faceting via PG, which I think is a feature I'll want pretty soon.
 
 We'll see what comes next, but whatever it is, I hope my data model is ready for it!
+
+<hr>
+
+Last week's post: [Forever Better](https://edbrown23.github.io/blog/2023/02/12/forever-better).
+
+Next week's post: [My Frontend is Bad](2023/03/12/my-frontend-is-bad)
