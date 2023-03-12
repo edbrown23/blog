@@ -24,6 +24,6 @@ On that note, I'm getting back to `barkeep` as we speak. I've got a laundry list
 
 <hr>
 
-Last week's post: [Introducing Barkeep](2023/01/29/introducing-barkeep).
+Last week's post: [Introducing Barkeep](/2023/01/29/introducing-barkeep).
 
-Next week's post: [The Importance of your Data Model](2023/02/26/data-model-importance)
+Next week's post: [The Importance of your Data Model](/2023/02/26/data-model-importance)

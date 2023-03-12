@@ -110,6 +110,6 @@ We'll see what comes next, but whatever it is, I hope my data model is ready for
 
 <hr>
 
-Last week's post: [Forever Better](https://edbrown23.github.io/blog/2023/02/12/forever-better).
+Last week's post: [Forever Better](/2023/02/12/forever-better).
 
-Next week's post: [My Frontend is Bad](2023/03/12/my-frontend-is-bad)
+Next week's post: [My Frontend is Bad](/2023/03/12/my-frontend-is-bad)
