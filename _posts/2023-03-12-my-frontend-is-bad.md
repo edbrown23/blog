@@ -32,7 +32,7 @@ For more contextual basics:
 	- As an aside, browsers seem to shim jQuery nowadays by having a default `$` function, which messed me up for weeks. Nuts.
 - I have no idea how to correctly include external JS libraries, so the ones I absolutely must have, like [`select2`](https://select2.org/), are vendor'd into my application 
 - `turbolinks` is an unholy mess, because I don't lean into it. More on this later, but my per page javascript files mostly define hooks which are registered on `turbolinks:load`. 
-	- For the non-rails devs in the audience, turbolinks portends to speed up page loads by executing all links via AJAX, then replacing the `<body>` of the page with the result, without reloading the `<head>`. This works great for that specific purpose, but means that `document.addEventListener("load")`-based callbacks will never work because the page actually never reloads.
+	- For the non-rails devs in the audience, turbolinks purports to speed up page loads by executing all links via AJAX, then replacing the `<body>` of the page with the result, without reloading the `<head>`. This works great for that specific purpose, but means that `document.addEventListener("load")`-based callbacks will never work because the page actually never reloads.
 
 ## What's going wrong?
 
