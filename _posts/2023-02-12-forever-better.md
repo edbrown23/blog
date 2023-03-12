@@ -21,3 +21,9 @@ On that note, I'm getting back to `barkeep` as we speak. I've got a laundry list
 - Converting my front end to a real framework, and whether that's even worth it
 - Doing the boring work to build up the value of my data, and ensuring that that data is safe once it does have value
 - Computer vision to recognize your available bottles!
+
+<hr>
+
+Last week's post: [Introducing Barkeep](2023/01/29/introducing-barkeep).
+
+Next week's post: [The Importance of your Data Model](2023/02/26/data-model-importance)
