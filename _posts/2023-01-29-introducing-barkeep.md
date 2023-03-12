@@ -3,7 +3,7 @@ title: "Introducing Barkeep"
 date: 2023-01-29
 ---
 
-## An Intro
+# An Intro
 
 At the beginning of the pandemic, during those feverish months of March and April 2020, I got really into making cocktails. As I'm sure it was for many others, the early periods of lockdown were simultaneously stressful and boring, and having drinks with my roommates was a welcome way to relax after yet another day of the "new normal". However, I could only have so many Manhattans and Boulevardiers (both still favorites today!) before I felt the need to branch out.
 

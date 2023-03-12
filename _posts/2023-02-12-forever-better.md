@@ -3,7 +3,7 @@ title: "Forever 1% Better"
 date: 2023-02-12
 ---
 
-## Forever 1% Better
+# Forever 1% Better
 
 I just got back from vacation this week (from :snowboarding: in Big Sky, Montana, which was _awesome_), and I've been feeling a bit under the weather, so I've decided to punt on my "Data Model" post for another two weeks. In lieu of that post, which I want to be a more technical powerhouse, I've decided to divert once more away from technology and discuss one of my favorite tech blog posts: [Fire and Motion](https://www.joelonsoftware.com/2002/01/06/fire-and-motion/).
 
@@ -24,6 +24,6 @@ On that note, I'm getting back to `barkeep` as we speak. I've got a laundry list
 
 <hr>
 
-Last week's post: [Introducing Barkeep](/2023/01/29/introducing-barkeep).
+Last week's post: [Introducing Barkeep](https://edbrown23.github.io/blog/2023/01/29/introducing-barkeep)
 
-Next week's post: [The Importance of your Data Model](/2023/02/26/data-model-importance)
+Next week's post: [The Importance of your Data Model](https://edbrown23.github.io/blog/2023/02/26/data-model-importance)

@@ -3,6 +3,8 @@ title: "Welcome to the blog!"
 date: 2023-01-15
 ---
 
+# Welcome to the blog
+
 It's 2023, and that means it's the year of the blog! Or at least, that's what I've agreed it will be, with the following terms:
 
 - I commit to publishing a blog post, usually of a technical nature, every two weeks on Sunday, starting January 15th, 2023

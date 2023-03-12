@@ -3,6 +3,8 @@ title: "Is your front end running? Better go catch it"
 date: 2023-03-12
 ---
 
+# Is your front end running? Better go catch it
+
 Remember [last time](https://edbrown23.github.io/blog/2023/02/26/data-model-importance), when I wrote a long long post about the importance of getting your data model right? How having a data model that feels comfortable and cozy amplifies your creativity? And how, in an equal and opposite way, a poor data model hinders your ability to make any progress on your project?
 
 This week I've realized the actual truth of that post: that rule applies to everything, but in my case, it especially applies to my Front End, which is unfortunately closer to the hindering side of that equation.
@@ -64,4 +66,4 @@ So what's the answer? I'm not 100% sure, but I think I just need to keep practic
 
 <hr>
 
-Last week's post: [Forever Better](/2023/02/26/data-model-importance).
+Last week's post: [The Importance of your data model](https://edbrown23.github.io/blog/2023/02/26/data-model-importance)
