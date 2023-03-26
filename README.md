@@ -9,6 +9,7 @@ Find me, the blog, in live form here: [https://edbrown23.github.io/blog/](https:
 - [Forever 1% Better](2023/02/12/forever-better) (2/12)
 - [The Importance of your Data Model](2023/02/26/data-model-importance) (2/26)
 - [My Front End is Bad News](2023/03/12/my-frontend-is-bad) (3/12)
+- [Deploying Barkeep](2023/03/26/deployment-and-costs) (3/26)
 
 ## barkeep
 The main technical focus for these blogs will be [https://barkeep.website](https://barkeep.website). If you're interested in an account to utilize the service, just email me.

@@ -67,3 +67,5 @@ So what's the answer? I'm not 100% sure, but I think I just need to keep practic
 <hr>
 
 Last week's post: [The Importance of your data model](https://edbrown23.github.io/blog/2023/02/26/data-model-importance)
+
+Next week's post: [Deploying Barkeep](https://edbrown23.github.io/blog/2023/03/26/deployment-and-costs)
