@@ -10,6 +10,7 @@ Find me, the blog, in live form here: [https://edbrown23.github.io/blog/](https:
 - [The Importance of your Data Model](2023/02/26/data-model-importance) (2/26)
 - [My Front End is Bad News](2023/03/12/my-frontend-is-bad) (3/12)
 - [Deploying Barkeep](2023/03/26/deployment-and-costs) (3/26)
+- [Converting to Docker in Digital Ocean](2023/04/10/converting-to-docker) (4/10)
 
 ## barkeep
 The main technical focus for these blogs will be [https://barkeep.website](https://barkeep.website). If you're interested in an account to utilize the service, just email me.
