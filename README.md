@@ -12,6 +12,7 @@ Find me, the blog, in live form here: [https://edbrown23.github.io/blog/](https:
 - [Deploying Barkeep](2023/03/26/deployment-and-costs) (3/26)
 - [Converting to Docker in Digital Ocean](2023/04/10/converting-to-docker) (4/10)
 - [Converting from Turbolinks to Turbo](2023/04/23/converting-from-turbolinks-to-turbo) (4/23)
+- [Rails (and its ecosystem) is great](https://edbrown23.github.io/blog/2023/05/07/rails-ecosystem-is-great) (5/7)
 
 ## barkeep
 The main technical focus for these blogs will be [https://barkeep.website](https://barkeep.website). If you're interested in an account to utilize the service, just email me.
