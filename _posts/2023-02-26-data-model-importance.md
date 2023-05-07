@@ -112,6 +112,7 @@ We'll see what comes next, but whatever it is, I hope my data model is ready for
 
 <hr>
 
-Last week's post: [Forever Better](https://edbrown23.github.io/blog/2023/02/12/forever-better)
+Last week's post: [Forever 1% Better](https://edbrown23.github.io/blog/2023/02/12/forever-better)
 
-Next week's post: [My Frontend is Bad](https://edbrown23.github.io/blog/2023/03/12/my-frontend-is-bad)
+Next week's post: [Is your front end running? Better go catch it](https://edbrown23.github.io/blog/2023/03/12/my-frontend-is-bad)
+

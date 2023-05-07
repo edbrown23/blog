@@ -53,3 +53,7 @@ Obviously I'm pretty glowing about the rails ecosystem here, and for good reason
 
 Thankfully, for me, I've decided to go all in on rails for this project. The benefits of "[conceptual compression](https://medium.com/signal-v-noise/threes-company-df77db78d1af)" found by leaning into these tools allows me to keep making progress on `barkeep` even when I take a week off, or only have an hour here or there. So for now, the sun is shining and the flowers are blooming in the rails ecosystem for me.
 
+<hr>
+
+Last week's post: [Converting from turbolinks to turbo](https://edbrown23.github.io/blog/2023/04/23/converting-from-turbolinks-to-turbo)
+

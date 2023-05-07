@@ -45,6 +45,7 @@ As with many of my posts, I've ended things on a whimsical note. Unlike those ot
 
 <hr>
 
-Last week's post: [My Frontend is Bad](https://edbrown23.github.io/blog/2023/03/12/my-frontend-is-bad)
+Last week's post: [Is your front end running? Better go catch it](https://edbrown23.github.io/blog/2023/03/12/my-frontend-is-bad)
 
-Next week's post: [Converting to Dockerfiles in Digital Ocean](https://edbrown23.github.io/blog/2023/04/10/converting-to-docker)
+Next week's post: [Converting to Docker in Digital Ocean - Live Blog Edition](https://edbrown23.github.io/blog/2023/04/10/converting-to-docker)
+

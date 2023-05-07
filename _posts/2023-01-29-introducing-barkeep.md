@@ -23,4 +23,9 @@ Barkeep is [open source](https://github.com/edbrown23/barkeep), built with Ruby 
 
 I'm already working on a future post about data models and how essential they are to these projects, so as a preview of that content: `barkeep` stores all of its recipes, and the relationships between those recipes and the bottles that fulfill them, in several Postgres tables. In the interest of cost savings while hosting, I've erred on the side of doing everything I can in Postgres, instead of reaching for an additional data storage system like Redis or ElasticSearch. Constraints breed creativity, however, and I'm already exploring ways to utilize some of the more esoteric Postgres features like full text search. I'm breaking the record as we speak by saying this, but expect future posts on that too!
 
-Last but not least, I'm obsessed with the idea of lifestyle businesses, and would love to have barkeep, or some descendent of it, become a business for me. I believe that software's original ability to scale productivity with minimal resources has too often been clouded by the world of Venture Capital and Growth Hacking and Making it up in Volume, but I also believe in the basic economics of [1000 true fans](https://kk.org/thetechnium/1000-true-fans/). I think that regular people have everyday problems that can be solved, delightfully, with software tools, and that someone (hopefully me) can make a living doing so, without needing to change the world or create a pitch deck or grow at all costs. It's naive to think my first project will accomplish that goal, but I can't have a successful second (or tenth) project without the first one.
+<hr>
+
+Last week's post: [Welcome to the blog!](https://edbrown23.github.io/blog/2023/01/15/welcome-to-the-blog)
+
+Next week's post: [Forever 1% Better](https://edbrown23.github.io/blog/2023/02/12/forever-better)
+

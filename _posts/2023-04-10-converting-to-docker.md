@@ -240,4 +240,5 @@ For me, that means today is already in the win column. I've moved my app to Dock
 
 Last week's post: [Deploying Barkeep](https://edbrown23.github.io/blog/2023/03/26/deployment-and-costs)
 
-Next week's post: [Converting from Turbolinks to Turbo](https://edbrown23.github.io/blog/2023/04/23/converting-from-turbolinks-to-turbo)
+Next week's post: [Converting from turbolinks to turbo](https://edbrown23.github.io/blog/2023/04/23/converting-from-turbolinks-to-turbo)
+

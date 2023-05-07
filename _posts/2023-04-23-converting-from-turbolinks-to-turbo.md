@@ -184,4 +184,7 @@ What I've done here is only the beginning. I still have lots of javascript that 
 
 <hr>
 
-Last week's post: [Converting to Docker in Digital Ocean](https://edbrown23.github.io/blog/2023/04/10/converting-to-docker)
+Last week's post: [Converting to Docker in Digital Ocean - Live Blog Edition](https://edbrown23.github.io/blog/2023/04/10/converting-to-docker)
+
+Next week's post: [Rails (and its ecosystem) is great](https://edbrown23.github.io/blog/2023/05/07/rails-ecosystem-is-great)
+

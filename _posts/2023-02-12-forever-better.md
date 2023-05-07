@@ -26,4 +26,5 @@ On that note, I'm getting back to `barkeep` as we speak. I've got a laundry list
 
 Last week's post: [Introducing Barkeep](https://edbrown23.github.io/blog/2023/01/29/introducing-barkeep)
 
-Next week's post: [The Importance of your Data Model](https://edbrown23.github.io/blog/2023/02/26/data-model-importance)
+Next week's post: [The importance of your data model](https://edbrown23.github.io/blog/2023/02/26/data-model-importance)
+

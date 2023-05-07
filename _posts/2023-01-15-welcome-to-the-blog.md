@@ -23,3 +23,7 @@ What will the main content of this blog be? It varies! Initially, my side projec
 Down the line, I have every intention of broadening the scope of this blog. Technology will almost always be a focus, but that umbrella covers a lot of potential topics, and I can't promise we won't branch out even further than that. Professionally, I've been growing as a manager over the last two years, and everything involved in that career change is a wealth of potential blog posts in the future. Expect future posts on Rails, FE frameworks, team processes, devops, cocktails, the list goes on!
 
 Last but not least, I welcome feedback of all forms. Please email me with any thoughts you have as you read these posts. Perhaps it's rose-tinted glasses, but I envy the days of the younger internet, where people created and shared their content with no inherent desire to have an audience, but rather to scratch some basic desire to create and commune with others. So, email me! I promise I'll respond, and perhaps we can form a little community of our own someday.
+<hr>
+
+Next week's post: [Forever 1% Better](https://edbrown23.github.io/blog/2023/02/12/forever-better)
+
