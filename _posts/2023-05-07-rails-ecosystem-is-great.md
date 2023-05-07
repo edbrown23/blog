@@ -29,7 +29,7 @@ At first, I implemented these special views by just appending additional HTML to
 
 `administrate`, like `devise`, is trivial to setup, and its defaults immediately give you a workable solution. I added one additional gem, [administrate-field-jsonb](https://github.com/codica2/administrate-field-jsonb) (another ecosystem win!), and immediately I had an admin view with the ability to render and modify any of my models, including a rich JSON editor!
 
-SCREENSHOT HERE!!
+![admin_page](/blog/docs/assets/2023-05-07/admin_page.png)
 
 ### Pagination
 
