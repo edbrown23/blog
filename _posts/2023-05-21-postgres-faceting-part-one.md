@@ -135,4 +135,7 @@ Now, I'll admit this is all the same information that existed on its separate am
 
 ## Next steps
 
-Next time, we get into the fun stuff. Based on my experimentation a few months back, once the data is all living on the direct `Recipe` models I'll be able to build Postgres `ts_vector` column's off of them. These columns enable Postgres full text search, which I can then use for all of my querying. We shall see how successful I am, but as of today I'm feeling more excited than apprehensive, which is a good start. See you all next time!
+Next time, we get into the fun stuff. Based on my experimentation a few months back, once the data is all living on the direct `Recipe` models I'll be able to build Postgres `ts_vector` column's off of them. These columns enable Postgres full text search, which I can then use for all of my querying. We shall see how successful I am, but as of today I'm feeling more excited than apprehensive, which is a good start. See you all next time!<hr>
+
+Last week's post: [Rails (and its ecosystem) is great](https://edbrown23.github.io/blog/2023/05/07/rails-ecosystem-is-great)
+

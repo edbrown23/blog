@@ -57,3 +57,5 @@ Thankfully, for me, I've decided to go all in on rails for this project. The ben
 
 Last week's post: [Converting from turbolinks to turbo](https://edbrown23.github.io/blog/2023/04/23/converting-from-turbolinks-to-turbo)
 
+Next week's post: [Postgres Faceting - Part One](https://edbrown23.github.io/blog/2023/05/21/postgres-faceting-part-one)
+
