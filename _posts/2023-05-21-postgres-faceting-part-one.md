@@ -8,7 +8,7 @@ date: 2023-05-21
 This week's post will be the first in a multipart story covering the next big data model conversion for [barkeep](https://barkeep.website). All the work will likely fit into two-ish posts, but as I write this I'm only starting to do the actual conversion so who knows really? The other posts in this series are linked here:
 
 - [Postgres Faceting - Part Two](https://edbrown23.github.io/blog/2023/06/04/postgres-faceting-part-two)
-- Part Three coming soon...
+- [Postgres Faceting - Part Three](https://edbrown23.github.io/blog/2023/06/18/postgres-faceting-part-three)
 
 ## Faceting, eh? Fascinating
 

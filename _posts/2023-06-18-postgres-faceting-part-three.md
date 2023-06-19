@@ -200,3 +200,7 @@ And we're done (again)! Despite the three posts it took us to get here, this rea
 ## Conclusion
 
 So what's next? I'm not entirely sure. There are many small UX improvements I can and should make, and those are likely what I'll work on next. How those will become blog posts is a problem for the future, but that future is a mere two weeks from now so we'll have to come up with something. Thanks for reading!
+
+<hr>
+
+Last week's post: [Postgres Faceting - Part Two](https://edbrown23.github.io/blog/2023/06/04/postgres-faceting-part-two)

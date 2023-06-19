@@ -8,7 +8,7 @@ date: 2023-06-04
 This week is part two in my Postgres Faceting series, where I'll be tweaking my data model to improve the query-ability of my cocktail recipes. There will likely be one more post after this one, but if you missed the first and want the context, check it out below:
 
 - [Postgres Faceting - Part One](https://edbrown23.github.io/blog/2023/05/21/postgres-faceting-part-one)
-- Part Three coming soon...
+- [Postgres Faceting - Part Three](https://edbrown23.github.io/blog/2023/06/18/postgres-faceting-part-three)
 
 Last time, we wrote a rake task to hoist my data from the one-to-many `ReagentAmount` models up to a `jsonb` column on my `Recipe` models. This week, we're going to enable search on that hoisted data.
 
@@ -300,4 +300,6 @@ Phew, this turned into a long post. Lots of progress was made however! We've hoi
 <hr>
 
 Last week's post: [Postgres Faceting - Part One](https://edbrown23.github.io/blog/2023/05/21/postgres-faceting-part-one)
+
+Next week's post: [Postgres Faceting - Part Three](https://edbrown23.github.io/blog/2023/06/18/postgres-faceting-part-three)
 
