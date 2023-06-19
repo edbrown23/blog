@@ -295,7 +295,9 @@ Look at that, hitting the index just as we hoped. Theoretically, this should now
 
 ## What's next?
 
-Phew, this turned into a long post. Lots of progress was made however! We've hoisted our data onto the `Recipe` models, added a performant new column that enables the queries I need, and ensured that querying that new column will continue to perform as more recipes are added. Next time, we'll actually use this new column in the app. See you soon!<hr>
+Phew, this turned into a long post. Lots of progress was made however! We've hoisted our data onto the `Recipe` models, added a performant new column that enables the queries I need, and ensured that querying that new column will continue to perform as more recipes are added. Next time, we'll actually use this new column in the app. See you soon!
+
+<hr>
 
 Last week's post: [Postgres Faceting - Part One](https://edbrown23.github.io/blog/2023/05/21/postgres-faceting-part-one)
 
