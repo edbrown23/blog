@@ -204,3 +204,5 @@ So what's next? I'm not entirely sure. There are many small UX improvements I ca
 <hr>
 
 Last week's post: [Postgres Faceting - Part Two](https://edbrown23.github.io/blog/2023/06/04/postgres-faceting-part-two)
+
+Next week's post: [No Post This Week](https://edbrown23.github.io/blog/2023/07/02/no-post-this-week)
